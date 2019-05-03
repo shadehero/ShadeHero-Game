@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadeHero", "ShadeHero\ShadeHero.csproj", "{9BCA6DDE-F8A9-48A2-B8E9-6DBBD0739693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectCrypter", "ObjectCrypter\ObjectCrypter.csproj", "{73AD403F-1504-4F2E-9116-7FDBDD37610B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BCA6DDE-F8A9-48A2-B8E9-6DBBD0739693}.Debug|x86.ActiveCfg = Debug|x86
+		{9BCA6DDE-F8A9-48A2-B8E9-6DBBD0739693}.Debug|x86.Build.0 = Debug|x86
+		{9BCA6DDE-F8A9-48A2-B8E9-6DBBD0739693}.Release|x86.ActiveCfg = Release|x86
+		{9BCA6DDE-F8A9-48A2-B8E9-6DBBD0739693}.Release|x86.Build.0 = Release|x86
+		{73AD403F-1504-4F2E-9116-7FDBDD37610B}.Debug|x86.ActiveCfg = Debug|x86
+		{73AD403F-1504-4F2E-9116-7FDBDD37610B}.Debug|x86.Build.0 = Debug|x86
+		{73AD403F-1504-4F2E-9116-7FDBDD37610B}.Release|x86.ActiveCfg = Release|x86
+		{73AD403F-1504-4F2E-9116-7FDBDD37610B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

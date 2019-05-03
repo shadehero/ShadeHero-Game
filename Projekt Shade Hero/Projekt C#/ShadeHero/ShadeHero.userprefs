@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{9BCA6DDE-F8A9-48A2-B8E9-6DBBD0739693}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ShadeHero PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShadeHero\Rooms\Auth\Register.cs">
+    <Files>
+      <File FileName="ShadeHero\Rooms\Auth\Register.cs" Line="43" Column="33" />
+      <File FileName="ShadeHero\Rooms\Characters\SelectCharacter.cs" Line="3" Column="20" />
+      <File FileName="ShadeHero\Rooms\Auth\Login.cs" Line="36" Column="33" NotebookId="1" />
+      <File FileName="ShadeHero\Serwer\Request.cs" Line="11" Column="3" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <DisabledProjects>
+    <String>ObjectCrypter\ObjectCrypter.csproj</String>
+  </DisabledProjects>
+</Properties>

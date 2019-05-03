@@ -1,0 +1,4 @@
+2 - dodac wszystkie wyjatki do polaczenia klient serwer /SerwerClient
+3 - sprawdzanie czy nick jest juz zajety
+4 - Komunikat o prawidlowym zalozeniu konta
+5 - prosta weryfikacja ze nie jestes botem podczas rejestracji i logowania

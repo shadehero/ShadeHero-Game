@@ -1,0 +1,15 @@
+{
+  "id": "test",
+  "name": "Test Location",
+  "description": "Test Rooom Opis",
+  "type": "area",
+
+  "characters": [
+    "bogdan"
+  ],
+    
+  "mobs": [
+    "kot"
+  ],
+    
+}
